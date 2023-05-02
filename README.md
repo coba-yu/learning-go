@@ -1,1 +1,1 @@
-# golang-study
+# learning-go
